@@ -70,6 +70,8 @@ Feel free to pepper us with questions or requests for feedback. Make sure to boo
 - Watch a [previous cohort's showcase presentations](https://www.youtube.com/watch?v=-qE2K8ThbRo)
 - [Presentation Rubric](https://github.com/DPI-WE/rubric/blob/main/sdf/final-project/presentation.md)
 
+---
+
 - Enter your presentation slides URL
 {: .free_text #presentation_slides_url title="Presentation Slides URL" points="1" answer="1" }
 
