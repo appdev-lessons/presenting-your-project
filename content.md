@@ -72,6 +72,8 @@ Feel free to pepper us with questions or requests for feedback. Make sure to boo
 
 ---
 
+Please create a presentation deck using [Google Slides](https://workspace.google.com/products/slides/), or whatever service you prefer; but whatever you choose, you must be able to share a link with us **that does not require signing in**. In other words, **anyone with the link** should be able to view the slides.
+
 - Enter your presentation slides URL
 {: .free_text #presentation_slides_url title="Presentation Slides URL" points="1" answer="1" }
 
@@ -94,6 +96,8 @@ You can use any recording method you like:
 - You could record a [Zoom](https://zoom.us) call where you are the only participant and sharing your screen.
 - [Screencastify](https://www.screencastify.com/) is a free Chrome extension.
 - [Loom](https://www.loom.com/) is also a great option.
+
+<!-- TODO: examples -->
 
 Once recorded, upload the video file to YouTube, Dropbox, Google Drive, or whatever service you prefer; but whatever you choose, you must be able to share a link with us **that does not require signing in**. In other words, **anyone with the link** should be able to view the video. On YouTube, this is known as an Unlisted (not Private) video.
 
