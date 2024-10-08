@@ -18,7 +18,7 @@ previous example
 
 ## Guidelines and Tips For Your Presentation
 
-The goal is present what you've been working on and what you've gained throughout the course. On your first slide, include your name and anything else that you want to be displayed while you're walking up to the stage. Aim to keep your presentation ~3-5 minutes. Practice with another trainee, TA, and/or in front of a mirror.
+The goal is to present what you've been working on and what you've gained throughout the course. On your first slide, include your name and anything else that you want to be displayed while you're walking up to the stage. Aim to keep your presentation ~3-5 minutes. Practice with another trainee, TA, and/or in front of a mirror.
 
 A good baseline structure for presenting your project is **YOU** - **PROBLEM** - **SOLUTION**:
 
