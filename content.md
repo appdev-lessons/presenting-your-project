@@ -33,9 +33,8 @@ Record a demo of your application for your presentation. Don't bother including 
 
 <aside>
 
-If you're on a Mac, you can record your screen with QuickTime.
+If you're on a Mac, you can record your screen with QuickTime. On other platforms, you can use [Screencastify](https://www.screencastify.com/).
 
-On Windows 11, you can press the `print screen` key on your keyboard to open the Snipping Tool app to make a screen recording, and then edit the video in Microsoft Clipchamp or another app of your choice. On other platforms, you can use [Screencastify](https://www.screencastify.com/).
 </aside>
 
 It's always nice when demoing for the app to look attractive. Perhaps it's unfair but it's a fact that people don't give as much credit to the same functionality if it doesn't look good. I'm happy to help with CSS/Bootstrap; come grab me (or an assistant) and we can pair program.
