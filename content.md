@@ -75,12 +75,16 @@ Feel free to pepper us with questions or requests for feedback. Make sure to boo
 
 Please create a presentation deck using [Google Slides](https://workspace.google.com/products/slides/), or whatever service you prefer; but whatever you choose, you must be able to share a link with us **that does not require signing in**. In other words, **anyone with the link** should be able to view the slides.
 
-- Enter your presentation slides URL
-{: .free_text #presentation_slides_url title="Presentation Slides URL" points="1" answer="1" }
+- Did you create slides for your presentation?
+- Yes
+  - Great job!
+- No
+  - Please create your slides before continuing.
+{: .choose_best #presentation_slides title="Presentation Slides URL" points="1" answer="1" }
 
 <div class="alert alert-danger mt-2">
 
-After you submit the URL here, return to Canvas and submit the URL again in the assignment "Submit Slides URL".
+Return to Canvas and submit the presentation slides URL in the assignment "Submit Slides URL".
 
 An instructor will provide additional feedback on your submission there.
 
@@ -102,12 +106,16 @@ You can use any recording method you like:
 
 Once recorded, upload the video file to YouTube, Dropbox, Google Drive, or whatever service you prefer; but whatever you choose, you must be able to share a link with us **that does not require signing in**. In other words, **anyone with the link** should be able to view the video. On YouTube, this is known as an Unlisted (not Private) video.
 
-- Enter your screencast URL
-{: .free_text #screencast_demo_url title="Screencast Demo URL" points="1" answer="1" }
+- Did you create a screencast demo?
+- Yes
+  - Great job!
+- No
+  - Please create your screencast demo before continuing.
+{: .choose_best #screencast_demo title="Screencast Demo URL" points="1" answer="1" }
 
 <div class="alert alert-danger mt-2">
 
-After you submit the URL here, return to Canvas and submit the URL again in the assignment "Submit Screencast Demo Video".
+Return to Canvas and submit the screencast URL in the assignment "Submit Screencast Demo Video".
 
 An instructor will provide additional feedback on your submission there.
 
